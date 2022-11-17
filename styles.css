@@ -1,0 +1,42 @@
+body{
+    background: rgb(195,112,34);
+background: linear-gradient(0deg, rgba(195,112,34,1) 0%, rgba(253,216,45,0.7455357142857143) 100%);
+}
+
+h1 {
+    color: black
+}
+#navbar{
+    background: red;
+    color: grey
+}
+
+#navbar a{
+    background: red;
+    color: grey
+}
+
+#navbar a{
+    color: brown;
+}
+
+#about-me
+background-image: line-gradient (rgba 255,255,255.5 ) rgba (rgba 255,255,255.5)), url (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fsea.html&psig=AOvVaw3ebEJJjlb40CQ5aM4iUK3f&ust=1668797707624000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNjl6YXytfsCFQAAAAAdAAAAABAE)
+ul li, url (https://images.pexels.com/photos/1001682/pexels-photo-1001682.jpeg): text-align:center
+
+ul li {
+    list-style:none;
+}
+
+ul li::before{
+    content:"-"
+}
+
+ul li::before{
+
+.secondary-titles
+background: fuchsia
+;
+
+.secondary-titles.hover{
+    background: yellow;
